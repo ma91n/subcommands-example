@@ -5,7 +5,7 @@ google/subcommands implements sample
 ## Usage
 
 ```sh
-$ go build -o subclip main.go
+$ go build -o subclip . 
 $ subclip help
 Usage: subclip <flags> <subcommand> <subcommand args>
 
